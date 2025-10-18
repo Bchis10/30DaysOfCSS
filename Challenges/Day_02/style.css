@@ -1,5 +1,5 @@
 body {
-    background-color: #E67BAB;
+    background-color: lightblue;
     
 }
 
@@ -14,12 +14,12 @@ body {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    box-shadow: 0 5px 0 white;
+    box-shadow: 0 5px 0 red;
     background: transparent;
     animation: animate 1s linear infinite;
 }
 
-.loading {
+.warnning {
     background-color: transparent;
     box-shadow: 0 0 5px rgba(224, 220, 220, 0.253);
     font-family: 'Ubuntu Mono', monospace;
